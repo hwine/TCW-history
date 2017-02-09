@@ -1,1 +1,0 @@
-Search.setIndex({envversion:46,filenames:["20170211-plan_diag","index"],objects:{},objnames:{},objtypes:{},terms:{closur:0,content:1,continu:0,end:0,initi:0,look:0,monitor:0,normal:0,okai:0,procedur:0,start:0,thing:0,tree:0},titles:["2017-02-11 TCW","TCW Diagram and Notes"],titleterms:{diagram:1,note:1,tcw:[0,1]}})
