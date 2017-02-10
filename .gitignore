@@ -1,4 +1,4 @@
-ignore_build
+_build
 raw_data
 *.ini
 *.out
